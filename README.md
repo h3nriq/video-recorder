@@ -2,21 +2,21 @@
 Recording Video with Python
 
 ## Video-Only Recorder
-- Libraries:
+### Libraries:
 - opencv
 - keyboard
 - pyautogui
 - numpy
 - os
 
-##### To Start Recording:
+### To Start Recording:
 Run the recorder file.
 
-##### To Stop Recording:
+### To Stop Recording:
 Press the "esc" key.
 
 ## Video Recorder with Microphone
-##### Libraries:
+### Libraries:
 - opencv
 - numpy
 - pyautogui
@@ -24,12 +24,12 @@ Press the "esc" key.
 - wave
 - threading
 - os
-##### To Start Recording:
+### To Start Recording:
 Run the recorder_with_microphone file.
 
-##### To Stop Recording:
+### To Stop Recording:
 Press the "q" key and then hit Enter.
 
-##### Output Files:
+### Output Files:
 video.avi
 audio.wav
