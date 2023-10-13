@@ -15,6 +15,9 @@ Run the recorder file.
 ### To Stop Recording:
 Press the "esc" key.
 
+### Output File:
+- video.avi
+
 ## Video Recorder with Microphone
 ### Libraries:
 - opencv
@@ -31,5 +34,5 @@ Run the recorder_with_microphone file.
 Press the "q" key and then hit Enter.
 
 ### Output Files:
-video.avi
-audio.wav
+- video.avi
+- audio.wav
