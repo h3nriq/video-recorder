@@ -36,3 +36,7 @@ Press the "q" key and then hit Enter.
 ### Output Files:
 - video.avi
 - audio.wav
+
+### Tip:
+You can use FFmpeg to merge video and audio.
+``` ffmpeg -i video.mp4 -i audio.wav -c:v copy -c:a aac output.mp4 ```
